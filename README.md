@@ -1,4 +1,4 @@
 # CodeVersioningWorkshopHomework
 Code versioning workshop Davin
 
-Test update readme
+This is just a test version
