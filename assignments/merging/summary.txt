@@ -1,0 +1,7 @@
+Summary of Merging topics from the last workshop:
+- Commit is used to stage any changes made in local branch before merging it to main branch
+- Pushing the branch means that the codes are going to be submitted to origin review and ready to be reviewed
+
+Git command for merging:
+- git commit (to stage the changes applied in local branch)
+- git push (to push the changes in local branch to remote branch)

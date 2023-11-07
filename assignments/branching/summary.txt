@@ -1,0 +1,7 @@
+My summary understanding about branching is:
+- Branch is created as a copy/separate version of original branch
+- With git branch, we can make new changes in a local branch without impacting the main branch
+
+The command generally used in branching:
+- git branch (To create, edit and delete the branch)
+- git checkout (To checkout branch)
