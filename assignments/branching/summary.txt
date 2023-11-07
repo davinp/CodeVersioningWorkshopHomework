@@ -4,4 +4,4 @@ My summary understanding about branching is:
 
 The command generally used in branching:
 - git branch (To create, edit and delete the branch)
-- git checkout (To checkout branch)
+- git checkout (To checkout branch and make some changes in the branch)
