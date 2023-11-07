@@ -5,3 +5,6 @@ Summary of Merging topics from the last workshop:
 Git command for merging:
 - git commit (to stage the changes applied in local branch)
 - git push (to push the changes in local branch to remote branch and make it ready to be reviewed by another collaborator)
+
+Open Pull Request
+Create pull request in the remote repository and make it available for review
